@@ -1,3 +1,7 @@
-# ACA-Summer-Camp
+# ACA-Summer-Camp-MERN
 <br>
-Here are some projects.
+## Assignment 1
+<br>
+''' In this Assignment I have made one of the page of a E-shopping website '''
+<br>
+
