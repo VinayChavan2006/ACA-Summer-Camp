@@ -106,10 +106,13 @@ cursor pointer to distinguish them as clickable icons but for now they are not c
     100%{
         width: 70%;
         opacity: 1;
+        border: 2px solid white;
     }
 }
 .card1:hover,.card2:hover,.card3:hover{
+    cursor:pointer;
     box-shadow: 0 2px 5px black;
+    border: 1px solid white;
     scale: 1.02;
     transition: all ease 0.5s;
 }
